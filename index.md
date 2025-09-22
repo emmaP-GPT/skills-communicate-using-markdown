@@ -17,3 +17,23 @@
 #### in this update added the image of a yucathan 
 
 
+```
+git int
+
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+```
+
+
+```Javascript
+
+let number=12
+
+console.log(number)
+
+```
+
+
+
+
+
