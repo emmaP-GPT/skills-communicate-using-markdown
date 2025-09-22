@@ -3,13 +3,7 @@
 ### third hi
 
 
-
-
-
-
-
 ##### in this file try use markdown in github for practice alone,this comment is a test
-
 
 
 ![image oy yucathan](https://octodex.github.com/images/yaktocat.png)
@@ -33,6 +27,11 @@ console.log(number)
 
 ```
 
+- [ ] Turn on GitHub Pages
+- [x] check this box
+- [x] add check list
+
+#### added the checklist the a example for practice
 
 
 
